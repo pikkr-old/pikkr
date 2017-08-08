@@ -2,5 +2,18 @@
 name = "pikkr"
 version = "0.1.0"
 authors = ["Keiji Yoshida <keijiyoshida.mail@gmail.com>"]
+description = "Pikkr Dynamic Library for Using SIMD Instructions"
+documentation = "https://docs.rs/pikkr"
+homepage = "https://github.com/pikkr/pikkr"
+repository = "https://github.com/pikkr/pikkr"
+readme = "README.md"
+keywords = ["pikkr", "json", "simd", "dylib"]
+categories = ["algorithms", "data-structures", "parser-implementations", "parsing", "text-processing"]
+license = "MIT/Apache-2.0"
 
 [dependencies]
+x86intrin = "0.4.3"
+
+[lib]
+name = "pikkr"
+crate-type = ["dylib"]

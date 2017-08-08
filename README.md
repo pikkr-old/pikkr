@@ -1,3 +1,3 @@
-# Pikkr Dynamic Library for using SIMD instructions
+# Pikkr Dynamic Library for Using SIMD Instructions
 
 
