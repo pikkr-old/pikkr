@@ -1,0 +1,6 @@
+[package]
+name = "pikkr"
+version = "0.1.0"
+authors = ["Keiji Yoshida <keijiyoshida.mail@gmail.com>"]
+
+[dependencies]
