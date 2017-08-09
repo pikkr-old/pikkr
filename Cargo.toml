@@ -2,7 +2,7 @@
 name = "pikkr"
 version = "0.1.0"
 authors = ["Keiji Yoshida <keijiyoshida.mail@gmail.com>"]
-description = "Pikkr Dynamic Library for Using SIMD Instructions"
+description = "Pikkr dynamic library for using SIMD instructions"
 documentation = "https://docs.rs/pikkr"
 homepage = "https://github.com/pikkr/pikkr"
 repository = "https://github.com/pikkr/pikkr"
